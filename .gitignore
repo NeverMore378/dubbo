@@ -1,0 +1,9 @@
+/.idea/
+/consumer/target/
+/consumer/consumer.iml
+/out/
+/provider/target/
+/provider/provider.iml
+/testRPC/target/
+/testRPC/testRPC.iml
+/dubbo.iml
